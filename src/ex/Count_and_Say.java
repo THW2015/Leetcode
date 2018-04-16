@@ -2,6 +2,7 @@ package ex;
 
 import java.util.Scanner;
 @SuppressWarnings("all")
+//thw
 public class Count_and_Say {
 	public String countAndSay(int n) {
 		StringBuilder sb=new StringBuilder();
